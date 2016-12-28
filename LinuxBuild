@@ -1,0 +1,6 @@
+1. Req
+sudo apt-get install oracle-java8-installer openjdk-8-jdk openjdk-8-jdk-headless ant ant-optional
+
+2. goto core &
+ant
+
